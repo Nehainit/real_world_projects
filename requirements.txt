@@ -1,0 +1,6 @@
+pdfplumber
+pandas
+pypdf
+pdf2image
+pytesseract
+Pillow
